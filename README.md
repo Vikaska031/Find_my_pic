@@ -30,14 +30,17 @@ import zipfile
 ## 🧠 Releases
 
 Release 1.0 🦄
+
 In this release, the service takes a user query in a text field and returns 5 random images from the 'img' folder (52 photos) along with user-provided image descriptions.
 
 Release 2.0✨
+
 A 'main.py' script has been implemented in this release. It accepts a text query, vectorizes it, and returns the 5 most similar images based on a similarity metric.
 A 'get_similarity.py' script has been implemented, containing the function for finding the 5 images closest to the text query.
 
 Release 3.0🎉
+
 Added the capability to generate descriptions for uploaded images.
 
 ## How to use this?
-Simply click the [link](https://huggingface.co/spaces/Vladimirktan/find-my-pic-app)and enjoy the experience.
+Simply click the [link](https://huggingface.co/spaces/Vladimirktan/find-my-pic-app)  and enjoy the experience.
