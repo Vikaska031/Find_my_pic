@@ -31,7 +31,7 @@ import zipfile
 
 Release 1.0 🦄
 
-In this release, the service takes a user query in a text field and returns 5 random images from the 'img' folder (52 photos) along with user-provided image descriptions.
+In this release, the service takes a user query in a text field and returns 5 random images from the 'img' folder (31+thousand photos) along with user-provided image descriptions. If you want, you can use another [dataset](https://huggingface.co/datasets/nlphuji/flickr30k)
 
 Release 2.0✨
 
